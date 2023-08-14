@@ -1,3 +1,5 @@
+##### Use https://nbviewer.org to upload the file in case of errors
+---
 # Exploratory Data Analysis - Suicide Attempts in Shandong, China
 This is a notebook that presents an exploratory data analysis (EDA) on suicide attempts in Shandong Province, China, based on a dataset available on Kaggle.
 
